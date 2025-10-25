@@ -1,5 +1,7 @@
 # My Lines 😝
 
+> AI is most reliable when you ask it things you already know.
+
 > Programming is winning all battles while losing the war.
 
 > The problem with good software is that we want it better.
