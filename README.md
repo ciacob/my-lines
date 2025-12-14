@@ -1,5 +1,7 @@
 # My Lines 😝
 
+> SketchUp PRO should be in textbooks. Should have its own chapter: **How Not to Build a 3D Editor**.
+
 > AI is most reliable when you ask it things you already know.
 
 > Programming is winning all battles while losing the war.
