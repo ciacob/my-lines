@@ -1,5 +1,7 @@
 # My Lines 😝
 
+> ServiceNow is truly fast: it only needs 16 seconds to decide your click was real.
+
 > If you think coding sucks, try doing it in ServiceNow.
 
 > Calling it open source doesn’t magically turn sloppy work into a virtue.
