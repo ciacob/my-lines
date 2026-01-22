@@ -1,5 +1,7 @@
 # My Lines 😝
 
+> I never fancied Microsoft software, but on macOS it turns into a masterclass in how to ruin an otherwise pleasant system.
+
 > ServiceNow is truly fast: it only needs 16 seconds to decide your click was real.
 
 > If you think coding sucks, try doing it in ServiceNow.
